@@ -1,0 +1,14 @@
+/* https://beatrizcaraballo.com/blog/low-highlight-heading-links-squarespace */
+body {
+    background: linear-gradient(90deg, #cbf3f0 50%, #fff 50%); 
+}
+h1 {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 50px;
+}
+.highlight {
+    background: linear-gradient(180deg,rgba(196, 71, 71, 0) 50%, #7bebff 50%);
+  }
